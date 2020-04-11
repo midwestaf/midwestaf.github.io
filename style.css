@@ -1,0 +1,101 @@
+img {
+  background-color: #FC4C17;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+  letter-spacing: 0.2em;
+}
+
+h1 {
+  font-size: xx-large;
+}
+
+h2 {
+  font-size: x-large;
+  margin-top: 2%;
+}
+
+p {
+  font-size: 18px;
+}
+
+.row {
+  padding: 4% 0 3% 0;
+}
+
+a {
+  color: #5dd3e3;
+}
+
+header a {
+  margin-left: 1%;
+}
+
+hr {
+  margin: 0 20%;
+}
+
+button {
+  background-color: #FC4C17;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 6px;
+}
+
+button:hover {
+  background-color: #5dd3e3;
+}
+
+.buttons {
+  margin: auto;
+  text-align: center;
+}
+
+p {
+  margin-bottom: 0;
+}
+
+.heading {
+  padding: 4% 0 3% 0;
+  text-align: center;
+  font-weight: bold;
+}
+
+.container {
+  margin-bottom: 5%;
+}
+
+header .fa:hover {
+  color: #FC4C17;
+}
+
+.join-link {
+  font-weight: bold;
+  text-align: center;
+  width: 100%;
+}
+
+.join-link:hover {
+  color: #FC4C17;
+  underline: none;
+}
+
+.join-page a, p, h1, h2, h4, ul, li {
+  padding-top: 1%;
+}
+
+.go-back:hover {
+  color: #FC4C17;
+  underline: none;
+}
+
+.olli {
+  font-size: 20px;
+  font-weight: bold;
+}
